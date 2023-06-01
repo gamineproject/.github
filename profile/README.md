@@ -1,5 +1,11 @@
-# The Gamine project <a href="https://github.com/gamineproject"><img align="right" id="icon-gamine" src="https://raw.githubusercontent.com/gamineproject/.github/main/favicon.png"></img></a>
+# Gamine
+<img src="https://raw.githubusercontent.com/gamineproject/.github/main/favicon.png" 
+        alt="Picture" 
+        width="150" 
+        height="150" 
+        style="display: block; margin: 0 auto" />
 Group of contributors of the Gamine runtime and `gpm`.
+
 
 ## FAQ
 ### *1*:
