@@ -16,18 +16,10 @@ There are also projects that the gamine project might also have:
 |        gamiinuu 🧠        | Node.js? More like Node.bf! This is an BF engine like Node   |   ✖️   |
 <!--------------------------------------------------------------------------------------------------->
 ---
-✔️ - Made, and can be more developed :)
-✖️ - Unfinished, can also not be in the repository, unless it is, it needs more development!
-### [ClutterScript 📃](https://github.com/gamineproject/clutterscript)
-JavaScript engine from 2023.
+* ✔️: **Made, and can be more developed :)**
+* ✖️: **Unfinished, can also not be in the repository, unless it is, it needs more development!**
 
-**Unfinished**
-### [gamiinuu ](https://github.com/gamineproject/gamiinuu)
-BrainF but kinda like Node.js
-
-**Unfinished, _and it's going to be finished after ClutterScript_**
-
-## Libraries
+# Gamine
 Gamine is written in <a href=https://en.wikipedia.org/wiki/C++>C++</a><a href="#langnote"><sup>[1]</sup></a>, so the libraries are
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 |            Libraries 🚀                                |                                                               In runtime 😸                                            |
